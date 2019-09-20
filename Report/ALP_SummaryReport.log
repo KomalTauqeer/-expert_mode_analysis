@@ -1,0 +1,558 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.6.28)  20 SEP 2019 12:01
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**ALP_SummaryReport.tex
+(./ALP_SummaryReport.tex
+LaTeX2e <2017-04-15>
+Babel <3.18> and hyphenation patterns for 84 language(s) loaded.
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/share/texlive/texmf-dist/tex/latex/jknapltx/mathrsfs.sty
+Package: mathrsfs 1996/01/01 Math RSFS package v1.0 (jk)
+\symrsfs=\mathgroup4
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2017/09/02 v2.17a AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks14
+\ex@=\dimen103
+))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen104
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count87
+LaTeX Info: Redefining \frac on input line 213.
+\uproot@=\count88
+\leftroot@=\count89
+LaTeX Info: Redefining \overline on input line 375.
+\classnum@=\count90
+\DOTSCASE@=\count91
+LaTeX Info: Redefining \ldots on input line 472.
+LaTeX Info: Redefining \dots on input line 475.
+LaTeX Info: Redefining \cdots on input line 596.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen105
+LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
+\macc@depth=\count92
+\c@MaxMatrixCols=\count93
+\dotsspace@=\muskip10
+\c@parentequation=\count94
+\dspbrk@lvl=\count95
+\tag@help=\toks15
+\row@=\count96
+\column@=\count97
+\maxfields@=\count98
+\andhelp@=\toks16
+\eqnshift@=\dimen106
+\alignsep@=\dimen107
+\tagshift@=\dimen108
+\tagwidth@=\dimen109
+\totwidth@=\dimen110
+\lineht@=\dimen111
+\@envbody=\toks17
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks18
+LaTeX Info: Redefining \[ on input line 2817.
+LaTeX Info: Redefining \] on input line 2818.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup5
+\symAMSb=\mathgroup6
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+)
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2016/05/22 v1.7-166 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 67.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks19
+)
+\captionmargin=\dimen112
+\captionmargin@=\dimen113
+\captionwidth=\dimen114
+\caption@tempdima=\dimen115
+\caption@indent=\dimen116
+\caption@parindent=\dimen117
+\caption@hangindent=\dimen118
+)
+\c@ContinuedFloat=\count99
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+Package: pdfpages 2017/10/31 v0.5l Insert pages of external PDF documents (AM)
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count100
+\calc@Bcount=\count101
+\calc@Adimen=\dimen119
+\calc@Bdimen=\dimen120
+\calc@Askip=\skip46
+\calc@Bskip=\skip47
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count102
+\calc@Cskip=\skip48
+)
+(/usr/share/texlive/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+Package: eso-pic 2015/07/21 v2.0g eso-pic (RN)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/atbegshi.sty
+Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+))
+(/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+))
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+)
+\Gin@req@height=\dimen121
+\Gin@req@width=\dimen122
+)
+\AM@pagewidth=\dimen123
+\AM@pageheight=\dimen124
+
+(/usr/share/texlive/texmf-dist/tex/latex/pdfpages/pppdftex.def
+File: pppdftex.def 2017/10/31 v0.5l Pdfpages driver for pdfTeX (AM)
+)
+\AM@pagebox=\box28
+\AM@global@opts=\toks20
+\AM@toc@title=\toks21
+\c@AM@survey=\count103
+\AM@templatesizebox=\box29
+)
+(/usr/share/texlive/texmf-dist/tex/latex/caption/subcaption.sty
+Package: subcaption 2016/05/22 v1.1-161 Sub-captions (AR)
+\c@subfigure=\count104
+\c@subtable=\count105
+)
+(./ALP_SummaryReport.aux)
+\openout1 = `ALP_SummaryReport.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+\AtBeginShipoutBox=\box30
+
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count106
+\scratchdimen=\dimen125
+\scratchbox=\box31
+\nofMPsegments=\count107
+\nofMParguments=\count108
+\everyMPshowfont=\toks22
+\MPscratchCnt=\count109
+\MPscratchDim=\dimen126
+\MPnumerator=\count110
+\makeMPintoPDFobject=\count111
+\everyMPtoPDFconversion=\toks23
+) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2018/01/21 v0.26 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/pdflscape.sty
+Package: pdflscape 2016/05/14 v0.11 Display of landscape pages in PDF (HO)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/lscape.sty
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+
+(/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+))
+LaTeX Font Info:    Try loading font information for U+rsfs on input line 18.
+
+(/usr/share/texlive/texmf-dist/tex/latex/jknapltx/ursfs.fd
+File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
+)
+LaTeX Font Info:    Try loading font information for U+msa on input line 18.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 18.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+Missing character: There is no Ì in font cmr10!
+Missing character: There is no „ in font cmr10!
+
+Underfull \hbox (badness 10000) in paragraph at lines 22--23
+
+ []
+
+[1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2]
+Missing character: There is no Ì in font cmr12!
+Missing character: There is no „ in font cmr12!
+ [3]
+Overfull \hbox (7.23564pt too wide) in paragraph at lines 65--65
+[]\OT1/cmr/bx/n/17.28 Theoretical cal-cu-la-tion of ALP de-cay widths 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[4]
+Underfull \hbox (badness 10000) in paragraph at lines 137--138
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 154--155
+
+ []
+
+[5]
+Overfull \hbox (4.96803pt too wide) in paragraph at lines 185--186
+[]\OT1/cmr/m/n/12 Table above shows the Mad-Graph5 gen-er-ated de-cay rates for
+ $\OML/cmm/m/it/12 a \OMS/cmsy/m/n/12 ! \OML/cmm/m/it/12 q[]; C[] \OT1/cmr/m/n/
+12 =
+ []
+
+
+Overfull \hbox (6.60777pt too wide) in paragraph at lines 187--187
+[]\OT1/cmr/bx/n/17.28 Comparison be-tween the-ory and Mad-Graph
+ []
+
+<WidthsummaryPlot.pdf, id=33, 569.12625pt x 367.3725pt>
+File: WidthsummaryPlot.pdf Graphic file (type pdf)
+<use WidthsummaryPlot.pdf>
+Package pdftex.def Info: WidthsummaryPlot.pdf  used on input line 191.
+(pdftex.def)             Requested size: 398.38567pt x 257.15898pt.
+
+Overfull \hbox (8.38567pt too wide) in paragraph at lines 191--192
+[][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[6]
+Overfull \vbox (7.64212pt too high) has occurred while \output is active []
+
+
+[7 <./WidthsummaryPlot.pdf, page is rotated 90 degrees>]
+<gg_to_gg.pdf, id=84, 125.60526pt x 69.82185pt>
+File: gg_to_gg.pdf Graphic file (type pdf)
+<use gg_to_gg.pdf>
+Package pdftex.def Info: gg_to_gg.pdf  used on input line 247.
+(pdftex.def)             Requested size: 87.92307pt x 48.87495pt.
+<gg_to_qq.pdf, id=85, 125.4527pt x 70.8216pt>
+File: gg_to_qq.pdf Graphic file (type pdf)
+<use gg_to_qq.pdf>
+Package pdftex.def Info: gg_to_qq.pdf  used on input line 250.
+(pdftex.def)             Requested size: 87.81627pt x 49.57477pt.
+<qq_to_gg.pdf, id=86, 125.4527pt x 70.8216pt>
+File: qq_to_gg.pdf Graphic file (type pdf)
+<use qq_to_gg.pdf>
+Package pdftex.def Info: qq_to_gg.pdf  used on input line 254.
+(pdftex.def)             Requested size: 87.81627pt x 49.57477pt.
+<qq_to_qq.pdf, id=87, 125.30013pt x 70.8216pt>
+File: qq_to_qq.pdf Graphic file (type pdf)
+<use qq_to_qq.pdf>
+Package pdftex.def Info: qq_to_qq.pdf  used on input line 257.
+(pdftex.def)             Requested size: 87.70947pt x 49.57477pt.
+ [8 <./gg_to_gg.pdf> <./gg_to_qq.pdf> <./qq_to_gg.pdf> <./qq_to_qq.pdf>] [9]
+<CrossSectionSummaryPlot.pdf, id=126, 569.12625pt x 367.3725pt>
+File: CrossSectionSummaryPlot.pdf Graphic file (type pdf)
+<use CrossSectionSummaryPlot.pdf>
+Package pdftex.def Info: CrossSectionSummaryPlot.pdf  used on input line 383.
+(pdftex.def)             Requested size: 398.38567pt x 257.15898pt.
+
+Overfull \hbox (8.38567pt too wide) in paragraph at lines 383--384
+[][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[10]
+<method.pdf, id=130, 247.8861pt x 139.4811pt>
+File: method.pdf Graphic file (type pdf)
+<use method.pdf>
+Package pdftex.def Info: method.pdf  used on input line 396.
+(pdftex.def)             Requested size: 198.30913pt x 111.585pt.
+ [11 <./CrossSectionSummaryPlot.pdf, page is rotated 90 degrees>]
+Underfull \hbox (badness 10000) in paragraph at lines 403--404
+
+ []
+
+<parton_level_80_fit.pdf, id=177, 569.12625pt x 388.45125pt>
+File: parton_level_80_fit.pdf Graphic file (type pdf)
+<use parton_level_80_fit.pdf>
+Package pdftex.def Info: parton_level_80_fit.pdf  used on input line 410.
+(pdftex.def)             Requested size: 227.64647pt x 155.37773pt.
+
+Overfull \hbox (17.09625pt too wide) in paragraph at lines 410--411
+ [][] 
+ []
+
+<parton_level_350_fit.pdf, id=178, 569.12625pt x 388.45125pt>
+File: parton_level_350_fit.pdf Graphic file (type pdf)
+<use parton_level_350_fit.pdf>
+Package pdftex.def Info: parton_level_350_fit.pdf  used on input line 413.
+(pdftex.def)             Requested size: 227.64647pt x 155.37773pt.
+
+Overfull \hbox (17.09625pt too wide) in paragraph at lines 413--414
+ [][] 
+ []
+
+
+Overfull \hbox (33.71152pt too wide) in paragraph at lines 409--415
+[]$[]$ $[]$ 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[12 <./method.pdf
+
+pdfTeX warning: pdflatex (file ./method.pdf): PDF inclusion: invalid other reso
+urce which is no dict (key 'ProcSets', type <array>); ignored.
+>]
+<particle_level_80_fit.pdf, id=192, 569.12625pt x 388.45125pt>
+File: particle_level_80_fit.pdf Graphic file (type pdf)
+<use particle_level_80_fit.pdf>
+Package pdftex.def Info: particle_level_80_fit.pdf  used on input line 427.
+(pdftex.def)             Requested size: 227.64647pt x 155.37773pt.
+
+Overfull \hbox (17.09625pt too wide) in paragraph at lines 427--428
+ [][] 
+ []
+
+<particle_level_350_fit.pdf, id=193, 569.12625pt x 388.45125pt>
+File: particle_level_350_fit.pdf Graphic file (type pdf)
+<use particle_level_350_fit.pdf>
+Package pdftex.def Info: particle_level_350_fit.pdf  used on input line 430.
+(pdftex.def)             Requested size: 227.64647pt x 155.37773pt.
+
+Overfull \hbox (17.09625pt too wide) in paragraph at lines 430--431
+ [][] 
+ []
+
+
+Overfull \hbox (33.71152pt too wide) in paragraph at lines 426--432
+[]$[]$ $[]$ 
+ []
+
+[13 <./parton_level_80_fit.pdf, page is rotated 90 degrees> <./parton_level_350
+_fit.pdf, page is rotated 90 degrees> <./particle_level_80_fit.pdf, page is rot
+ated 90 degrees> <./particle_level_350_fit.pdf, page is rotated 90 degrees>]
+<detector_level_80_fit.pdf, id=371, 569.12625pt x 388.45125pt>
+File: detector_level_80_fit.pdf Graphic file (type pdf)
+<use detector_level_80_fit.pdf>
+Package pdftex.def Info: detector_level_80_fit.pdf  used on input line 443.
+(pdftex.def)             Requested size: 227.64647pt x 155.37773pt.
+
+Overfull \hbox (17.09625pt too wide) in paragraph at lines 443--444
+ [][] 
+ []
+
+<detector_level_350_fit.pdf, id=372, 569.12625pt x 388.45125pt>
+File: detector_level_350_fit.pdf Graphic file (type pdf)
+<use detector_level_350_fit.pdf>
+Package pdftex.def Info: detector_level_350_fit.pdf  used on input line 446.
+(pdftex.def)             Requested size: 227.64647pt x 155.37773pt.
+
+Overfull \hbox (17.09625pt too wide) in paragraph at lines 446--447
+ [][] 
+ []
+
+
+Overfull \hbox (33.71152pt too wide) in paragraph at lines 442--448
+[]$[]$ $[]$ 
+ []
+
+
+Overfull \hbox (50.5562pt too wide) in paragraph at lines 458--468
+ [] 
+ []
+
+[14 <./detector_level_80_fit.pdf, page is rotated 90 degrees> <./detector_level
+_350_fit.pdf, page is rotated 90 degrees>] [15] (./ALP_SummaryReport.aux) ) 
+Here is how much of TeX's memory you used:
+ 4905 strings out of 492982
+ 73004 string characters out of 6134896
+ 136185 words of memory out of 5000000
+ 8374 multiletter control sequences out of 15000+600000
+ 17112 words of font info for 67 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 41i,9n,39p,1136b,378s stack positions out of 5000i,500n,10000p,200000b,80000s
+</us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/shar
+e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texl
+ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></usr/share/texlive/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-
+dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/f
+onts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/t
+ype1/public/amsfonts/cm/cmmi6.pfb></usr/share/texlive/texmf-dist/fonts/type1/pu
+blic/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/am
+sfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr1
+2.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><
+/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/sha
+re/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texli
+ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist
+/fonts/type1/public/rsfs/rsfs10.pfb>
+Output written on ALP_SummaryReport.pdf (15 pages, 353849 bytes).
+PDF statistics:
+ 517 PDF objects out of 1000 (max. 8388607)
+ 265 compressed objects within 3 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 66 words of extra memory for PDF output out of 10000 (max. 10000000)
+
