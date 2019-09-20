@@ -1,0 +1,46 @@
+# run madanalysis in Reco mode ./bin/ma5 -R
+
+set main.fastsim.package = fastjet
+set main.fastsim.algorithm = antikt
+set main.fastsim.ptmin = 2 
+set main.fastsim.radius = 0.4 
+set main.lumi = 10
+set main.normalize = lumi_weight
+set main.outputfile = ggALPgg_350.lhco.gz
+
+import ../MG5_aMC_v2_6_6/ggALPgg_F/Events/run_09/tag_1_pythia8_events.hepmc.gz as ggALPgg_350
+
+set ggALPgg_350.weight = 100
+set ggALPgg_350.xsection = 2.474e+04
+
+
+set ggALPgg_350.backcolor = none 
+
+set ggALPgg_350.linecolor = green
+
+set ggALPgg_350.linewidth = 5
+
+set ggALPgg_350.linestyle = solid
+
+plot N(j) 5 0 20 [logY stack]
+
+plot M(j[1] j[2]) 100 0 5000 [logX normalize2one]
+#plot M(j[2] j[3]) 100 0 500 [logY stack]
+#plot M(j[1] j[3]) 100 0 500 [logY stack]
+
+plot PT(j[1]) 100 0 300 [logY stack]
+plot PT(j[2]) 100 0 300 [logY stack]
+#plot PT(j[3]) 100 0 300 [logY stack]
+#plot PT(j[4]) 100 0 300 [logY stack]
+#plot PT(j[5]) 100 0 300 [logY stack]
+#plot PT(j[6]) 100 0 300 [logY stack]
+#plot PT(j[7]) 100 0 300 [logY stack]
+#plot PT(j[8]) 100 0 300 [logY stack]
+#plot PT(j[9]) 100 0 300 [logY stack]
+
+#plot DELTAR(j[1],j[2]) 20 2 8 [logY]
+#plot DELTAR(j[2],j[3]) 20 2 8 [logY]
+#plot DELTAR(j[1],j[3]) 20 2 8 [logY]
+
+submit malp_350 
+open

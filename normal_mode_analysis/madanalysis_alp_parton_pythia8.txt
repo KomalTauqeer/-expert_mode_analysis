@@ -1,0 +1,53 @@
+# run madanalysis in default mode ( parton level mode )
+
+#import ../MG5_aMC_v2_6_6/ggALPgg_F/Events/run_07/unweighted_events.lhe.gz as ggALPgg_10
+#import ../MG5_aMC_v2_6_6/analysis_files/Events/run_01/unweighted_events.lhe.gz as ggALPgg_80
+import ../MG5_aMC_v2_6_6/analysis_files/Events/run_02/unweighted_events.lhe.gz as ggALPgg_350
+
+set ggALPgg_350.weight = 100000
+set main.outputfile = ggALPgg_parton_350.lhe.gz
+
+#set ggALPgg_10.xsection = 1.049e+07
+#set ggALPgg_80.xsection = 6.315e+05
+set ggALPgg_350.xsection = 2.474e+04
+
+#set ggALPgg_10.backcolor = none
+#set ggALPgg_80.backcolor = none
+set ggALPgg_350.backcolor = none
+
+#set ggALPgg_10.linecolor = red
+#set ggALPgg_80.linecolor = blue
+set ggALPgg_350.linecolor = green
+
+#set ggALPgg_10.linewidth = 5
+#set ggALPgg_80.linewidth = 5
+set ggALPgg_350.linewidth = 5
+
+#set ggALPgg_10.linestyle = solid
+#set ggALPgg_80.linestyle = solid
+set ggALPgg_350.linestyle = solid
+
+plot N(j) 5 0 5 [logY stack]
+
+#plot PT(j[1]) 100 0 300 [logY]
+plot PT(j[1]) 100 0 300 [logY stack]
+
+#plot PT(j[2]) 100 0 300 [logY]
+plot PT(j[2]) 100 0 300 [logY stack]
+
+plot PT(j[3]) 100 0 300 [logY]
+
+#plot M(j[1] j[2]) 100 0 500 [logY]
+plot M(j[1] j[2]) 100 0 5000 [logX normalize2one]
+
+plot THETA(j[1]) 30 0 5 [logY]
+plot THETA(j[2]) 30 0 5 [logY]
+
+plot DELTAR(j[1],j[2]) 20 2 8 [logY]
+
+plot ET(j[1]) 50 0 250 [logY]
+plot ET(j[2]) 50 0 250 [logY]
+
+submit analysis_alp_partonlevel_pythia8
+ 
+
